@@ -1,0 +1,1 @@
+print()函数调用sys.stdout.write 方法，往控制台打印字符串
